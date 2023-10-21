@@ -1,0 +1,47 @@
+body {
+  background-color: #00acc1;
+}
+
+#login-form .eye-button {
+  background-color: #f3f7f9;
+  border: 1px solid #dfe2e6;
+}
+
+#login-form {
+  background-color: white;
+  border-radius: 5px;
+  margin-top: 5rem;
+  width: 25rem;
+}
+
+#login-form p {
+  color: #a5a9b5;
+  font-size: 14px;
+}
+
+.content .img {
+  position: relative;
+}
+
+img {
+  left: 112px;
+  position: absolute;
+  top: 1px;
+}
+
+.signup-option {
+  color: #74d6e0;
+}
+
+.signup-option a {
+  color: white;
+  margin-left: 10px;
+}
+
+.text-center span {
+  color: #74d6e0;
+}
+
+.text-center .copyright-color {
+  color: #647b81;
+}
